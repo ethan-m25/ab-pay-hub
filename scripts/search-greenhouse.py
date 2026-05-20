@@ -43,11 +43,12 @@ SEED_SLUGS = [
 
 
 SALARY_PATTERNS = [
-    r'\CA$\s*([\\d,]+)\s*[-–—]\s*\CA$\s*([\\d,]+)',
-    r'([\\d,]+)\s*[-–—]\s*([\\d,]+)\s*(?:CAD|cad)',
-    r'salary[:\s]+\CA$?([\\d,]+)[kK]?\s*[-–—]\s*\CA$?([\\d,]+)[kK]?',
-    r'compensation[:\s]+\CA$?([\\d,]+)[kK]?\s*[-–—]\s*\CA$?([\\d,]+)[kK]?',
-    r'pay range[:\s]+\CA$?([\\d,]+)[kK]?\s*[-–—]\s*\CA$?([\\d,]+)[kK]?',
+    r'\$\s*([\d,]+)\s*[-–—]\s*\$\s*([\d,]+)',
+    r'CA\$\s*([\d,]+)\s*[-–—]\s*CA\$\s*([\d,]+)',
+    r'([\d,]+)\s*[-–—]\s*([\d,]+)\s*(?:CAD|cad)',
+    r'salary[:\s]+\$?([\d,]+)[kK]?\s*[-–—]\s*\$?([\d,]+)[kK]?',
+    r'compensation[:\s]+\$?([\d,]+)[kK]?\s*[-–—]\s*\$?([\d,]+)[kK]?',
+    r'pay range[:\s]+\$?([\d,]+)[kK]?\s*[-–—]\s*\$?([\d,]+)[kK]?',
     r'"salary_min":\s*(\d+).*?"salary_max":\s*(\d+)',
     r'"min_salary":\s*(\d+).*?"max_salary":\s*(\d+)',
 ]
