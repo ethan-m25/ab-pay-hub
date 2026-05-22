@@ -1,0 +1,15 @@
+{
+  "generated": "2026-05-22",
+  "categories": {
+    "Other": {
+      "cat_median": 65000,
+      "n_jobs": 49,
+      "skills": []
+    },
+    "Data & Analytics": {
+      "cat_median": 114750,
+      "n_jobs": 3,
+      "skills": []
+    }
+  }
+}

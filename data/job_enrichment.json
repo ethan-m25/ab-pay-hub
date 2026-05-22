@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "built_at": "2026-05-22T11:37:01.471156+00:00",
+    "total_jobs": 78,
+    "enriched": 2
+  },
+  "jobs": {
+    "customer-support-spe-velora-28696276": {
+      "summary": "Provides solution-oriented customer support for nonprofit organizations using Aplos platform, resolving issues across multiple channels while advocating for customer needs.",
+      "key_skills": [
+        "customer support",
+        "problem solving",
+        "product expertise",
+        "issue resolution",
+        "customer advocacy",
+        "documentation"
+      ],
+      "core_skills": [
+        "problem solving",
+        "customer support"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-financial--velora-28696276": {
+      "summary": "Builds detailed financial models and analyses to enable business planning and strategic decision making while maintaining and evolving the company’s operating model.",
+      "key_skills": [
+        "financial modeling",
+        "saaS metrics",
+        "strategic analysis",
+        "forecasting",
+        "board reporting",
+        "operational modeling",
+        "cross-functional collaboration",
+        "ai tools"
+      ],
+      "core_skills": [
+        "financial modeling",
+        "saaS metrics",
+        "strategic analysis",
+        "forecasting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    }
+  }
+}
