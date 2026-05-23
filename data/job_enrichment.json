@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-22T11:37:01.471156+00:00",
-    "total_jobs": 78,
-    "enriched": 2
+    "built_at": "2026-05-23T11:35:14.179219+00:00",
+    "total_jobs": 79,
+    "enriched": 3
   },
   "jobs": {
     "customer-support-spe-velora-28696276": {
@@ -20,6 +20,29 @@
         "customer support"
       ],
       "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-technical-sup-velora-28696276": {
+      "summary": "Senior Technical Support Engineer resolves complex technical issues across Aplos, Raisely, and Keela using AI tools like Cursor to build automation, incident response, and knowledge systems while bridging customer support, engineering, and product teams.",
+      "key_skills": [
+        "ai",
+        "cursor",
+        "incident_response",
+        "log_analysis",
+        "sql",
+        "api",
+        "troubleshooting",
+        "automation"
+      ],
+      "core_skills": [
+        "incident_ownership",
+        "ai_augmented_troubleshooting",
+        "knowledge_excellence",
+        "collaboration"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
