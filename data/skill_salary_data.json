@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-25",
+  "generated": "2026-05-26",
   "categories": {
     "Other": {
       "cat_median": 65000,
-      "n_jobs": 50,
+      "n_jobs": 55,
       "skills": []
     },
     "Engineering": {
