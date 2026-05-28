@@ -1,20 +1,138 @@
 {
-  "generated": "2026-05-27",
+  "generated": "2026-05-28",
   "categories": {
     "Other": {
-      "cat_median": 65000,
-      "n_jobs": 56,
+      "cat_median": 83000,
+      "n_jobs": 163,
       "skills": []
     },
     "Engineering": {
-      "cat_median": 108900,
+      "cat_median": 182970,
+      "n_jobs": 88,
+      "skills": [
+        {
+          "skill": "virtual_machines",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "linux",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "performance_optimization",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "reliability",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "nomad",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "tcpdump",
+          "median": 231750,
+          "n": 2,
+          "dev": 26.7
+        },
+        {
+          "skill": "python",
+          "median": 190500,
+          "n": 2,
+          "dev": 4.1
+        }
+      ]
+    },
+    "Data & Analytics": {
+      "cat_median": 119000,
+      "n_jobs": 42,
+      "skills": []
+    },
+    "Management": {
+      "cat_median": 123000,
+      "n_jobs": 129,
+      "skills": [
+        {
+          "skill": "data-driven decision making",
+          "median": 203850,
+          "n": 2,
+          "dev": 65.7
+        },
+        {
+          "skill": "revenue growth",
+          "median": 192950,
+          "n": 2,
+          "dev": 56.9
+        }
+      ]
+    },
+    "Legal": {
+      "cat_median": 145000,
+      "n_jobs": 13,
+      "skills": []
+    },
+    "Operations": {
+      "cat_median": 110250,
+      "n_jobs": 19,
+      "skills": []
+    },
+    "Marketing": {
+      "cat_median": 133500,
       "n_jobs": 7,
       "skills": []
     },
-    "Data & Analytics": {
-      "cat_median": 114750,
-      "n_jobs": 3,
-      "skills": []
+    "Product": {
+      "cat_median": 205000,
+      "n_jobs": 15,
+      "skills": [
+        {
+          "skill": "payment industry expertise",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        },
+        {
+          "skill": "agile",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        },
+        {
+          "skill": "stakeholder management",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        },
+        {
+          "skill": "technical acumen",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        },
+        {
+          "skill": "tokenization",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        },
+        {
+          "skill": "api integration",
+          "median": 135650,
+          "n": 2,
+          "dev": -33.8
+        }
+      ]
     }
   }
 }
