@@ -1,0 +1,2063 @@
+{
+  "hub": "ab",
+  "generated_at": "2026-05-27",
+  "employers": [
+    {
+      "name": "Velora",
+      "ats": "greenhouse",
+      "slug_or_url": "velora",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Secondharvest",
+      "ats": "greenhouse",
+      "slug_or_url": "secondharvest",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Suncor",
+      "ats": "greenhouse",
+      "slug_or_url": "suncor",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Cenovus",
+      "ats": "greenhouse",
+      "slug_or_url": "cenovus",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Capitalpower",
+      "ats": "greenhouse",
+      "slug_or_url": "capitalpower",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Benevity",
+      "ats": "greenhouse",
+      "slug_or_url": "benevity",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Enmax",
+      "ats": "greenhouse",
+      "slug_or_url": "enmax",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Atb",
+      "ats": "greenhouse",
+      "slug_or_url": "atb",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Telus",
+      "ats": "greenhouse",
+      "slug_or_url": "telus",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Velora",
+      "ats": "lever",
+      "slug_or_url": "velora",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Benevity",
+      "ats": "lever",
+      "slug_or_url": "benevity",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Attabotics",
+      "ats": "lever",
+      "slug_or_url": "attabotics",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Eavor",
+      "ats": "lever",
+      "slug_or_url": "eavor",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Carbon Engineering",
+      "ats": "lever",
+      "slug_or_url": "carbon-engineering",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Helcim",
+      "ats": "lever",
+      "slug_or_url": "helcim",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Gobolt",
+      "ats": "lever",
+      "slug_or_url": "gobolt",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Koho",
+      "ats": "lever",
+      "slug_or_url": "koho",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Xplor",
+      "ats": "lever",
+      "slug_or_url": "xplor",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Symend",
+      "ats": "lever",
+      "slug_or_url": "symend",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Arcurve",
+      "ats": "lever",
+      "slug_or_url": "arcurve",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Ramp",
+      "ats": "ashby",
+      "slug_or_url": "ramp",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Deel",
+      "ats": "ashby",
+      "slug_or_url": "deel",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Notion",
+      "ats": "ashby",
+      "slug_or_url": "notion",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Vanta",
+      "ats": "ashby",
+      "slug_or_url": "vanta",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Benchling",
+      "ats": "ashby",
+      "slug_or_url": "benchling",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "PostHog",
+      "ats": "ashby",
+      "slug_or_url": "posthog",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Suncor Energy",
+      "ats": "workday",
+      "slug_or_url": "suncor.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "suncor",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "Cenovus Energy",
+      "ats": "workday",
+      "slug_or_url": "cenovus.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cenovus",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "TC Energy",
+      "ats": "workday",
+      "slug_or_url": "tcenergy.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "tcenergy",
+        "job_type": "CAREER_SITE_TC"
+      }
+    },
+    {
+      "name": "Enbridge",
+      "ats": "workday",
+      "slug_or_url": "enbridge.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "enbridge",
+        "job_type": "Enbridge_Careers"
+      }
+    },
+    {
+      "name": "Nutrien",
+      "ats": "workday",
+      "slug_or_url": "nutrien.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "nutrien",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "WestJet",
+      "ats": "workday",
+      "slug_or_url": "westjet.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "westjet",
+        "job_type": "WestJetCareers"
+      }
+    },
+    {
+      "name": "RBC",
+      "ats": "workday",
+      "slug_or_url": "rbc.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "rbc",
+        "job_type": "RBCGLOBAL1"
+      }
+    },
+    {
+      "name": "TD Bank",
+      "ats": "workday",
+      "slug_or_url": "td.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "td",
+        "job_type": "TD_Bank_Careers"
+      }
+    },
+    {
+      "name": "BMO",
+      "ats": "workday",
+      "slug_or_url": "bmo.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "bmo",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "CIBC",
+      "ats": "workday",
+      "slug_or_url": "cibc.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cibc",
+        "job_type": "search"
+      }
+    },
+    {
+      "name": "Manulife",
+      "ats": "workday",
+      "slug_or_url": "manulife.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "manulife",
+        "job_type": "MFCJH_Jobs"
+      }
+    },
+    {
+      "name": "Sun Life",
+      "ats": "workday",
+      "slug_or_url": "sunlife.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "sunlife",
+        "job_type": "Experienced-Jobs"
+      }
+    },
+    {
+      "name": "Intact Financial",
+      "ats": "workday",
+      "slug_or_url": "intactfc.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "intactfc",
+        "job_type": "IntactFC"
+      }
+    },
+    {
+      "name": "PwC",
+      "ats": "workday",
+      "slug_or_url": "pwc.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "pwc",
+        "job_type": "Global_Experienced_Careers"
+      }
+    },
+    {
+      "name": "BDO Canada",
+      "ats": "workday",
+      "slug_or_url": "bdo.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "bdo",
+        "job_type": "BDO"
+      }
+    },
+    {
+      "name": "Walmart Canada",
+      "ats": "workday",
+      "slug_or_url": "walmart.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "walmart",
+        "job_type": "WalmartExternal"
+      }
+    },
+    {
+      "name": "Shopify",
+      "ats": "greenhouse",
+      "slug_or_url": "shopify",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Hootsuite",
+      "ats": "greenhouse",
+      "slug_or_url": "hootsuite",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Lightspeed",
+      "ats": "greenhouse",
+      "slug_or_url": "lightspeed",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Wealthsimple",
+      "ats": "greenhouse",
+      "slug_or_url": "wealthsimple",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "FreshBooks",
+      "ats": "greenhouse",
+      "slug_or_url": "freshbooks",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "D2L (Desire2Learn)",
+      "ats": "greenhouse",
+      "slug_or_url": "d2l",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "TealBook",
+      "ats": "greenhouse",
+      "slug_or_url": "tealbook",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "KOHO",
+      "ats": "greenhouse",
+      "slug_or_url": "koho",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Nuvei",
+      "ats": "greenhouse",
+      "slug_or_url": "nuvei",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Clearco",
+      "ats": "greenhouse",
+      "slug_or_url": "clearco",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Scotiabank",
+      "ats": "workday",
+      "slug_or_url": "scotiabank.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "scotiabank",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "CN Rail",
+      "ats": "workday",
+      "slug_or_url": "cn.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cn",
+        "job_type": "cnrailway"
+      }
+    },
+    {
+      "name": "Air Canada",
+      "ats": "workday",
+      "slug_or_url": "aircanada.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "aircanada",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "Rogers Communications",
+      "ats": "workday",
+      "slug_or_url": "rogers.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "rogers",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "TELUS",
+      "ats": "workday",
+      "slug_or_url": "telus.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "telus",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "TELUS Digital",
+      "ats": "greenhouse",
+      "slug_or_url": "telus-digital",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Carbon",
+      "ats": "greenhouse",
+      "slug_or_url": "carbon",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Decisive Farming",
+      "ats": "greenhouse",
+      "slug_or_url": "decisive-farming",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Solium Capital",
+      "ats": "greenhouse",
+      "slug_or_url": "solium",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Jobber",
+      "ats": "greenhouse",
+      "slug_or_url": "jobber",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Symend",
+      "ats": "greenhouse",
+      "slug_or_url": "symend",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Clutch",
+      "ats": "greenhouse",
+      "slug_or_url": "clutch",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Canadian Natural Resources",
+      "ats": "workday",
+      "slug_or_url": "cnrl.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cnrl",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "Cenovus Energy",
+      "ats": "workday",
+      "slug_or_url": "cenovus.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cenovus",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "TC Energy",
+      "ats": "workday",
+      "slug_or_url": "tc-energy.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "tc-energy",
+        "job_type": "External"
+      }
+    },
+    {
+      "name": "Airbnb",
+      "ats": "greenhouse",
+      "slug_or_url": "airbnb",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Lyft",
+      "ats": "greenhouse",
+      "slug_or_url": "lyft",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Coinbase",
+      "ats": "greenhouse",
+      "slug_or_url": "coinbase",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "DoorDash",
+      "ats": "greenhouse",
+      "slug_or_url": "doordash",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Discord",
+      "ats": "greenhouse",
+      "slug_or_url": "discord",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Reddit",
+      "ats": "greenhouse",
+      "slug_or_url": "reddit",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Figma",
+      "ats": "greenhouse",
+      "slug_or_url": "figma",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Robinhood",
+      "ats": "greenhouse",
+      "slug_or_url": "robinhood",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Instacart",
+      "ats": "greenhouse",
+      "slug_or_url": "instacart",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Gusto",
+      "ats": "greenhouse",
+      "slug_or_url": "gusto",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Deel",
+      "ats": "greenhouse",
+      "slug_or_url": "deel",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Zapier",
+      "ats": "greenhouse",
+      "slug_or_url": "zapier",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Notion",
+      "ats": "greenhouse",
+      "slug_or_url": "notion",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Linear",
+      "ats": "greenhouse",
+      "slug_or_url": "linear",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Retool",
+      "ats": "greenhouse",
+      "slug_or_url": "retool",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Samsara",
+      "ats": "greenhouse",
+      "slug_or_url": "samsara",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Amplitude",
+      "ats": "greenhouse",
+      "slug_or_url": "amplitude",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Benchling",
+      "ats": "greenhouse",
+      "slug_or_url": "benchling",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Lattice",
+      "ats": "greenhouse",
+      "slug_or_url": "lattice",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Duolingo",
+      "ats": "greenhouse",
+      "slug_or_url": "duolingo",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Affirm",
+      "ats": "greenhouse",
+      "slug_or_url": "affirm",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Marqeta",
+      "ats": "greenhouse",
+      "slug_or_url": "marqeta",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Chime",
+      "ats": "greenhouse",
+      "slug_or_url": "chime",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Poshmark",
+      "ats": "greenhouse",
+      "slug_or_url": "poshmark",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Opendoor",
+      "ats": "greenhouse",
+      "slug_or_url": "opendoor",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Palantir",
+      "ats": "greenhouse",
+      "slug_or_url": "palantir",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "SurveyMonkey",
+      "ats": "greenhouse",
+      "slug_or_url": "surveymonkey",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "dbt Labs",
+      "ats": "greenhouse",
+      "slug_or_url": "dbt-labs",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Vercel",
+      "ats": "greenhouse",
+      "slug_or_url": "vercel",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Coda",
+      "ats": "greenhouse",
+      "slug_or_url": "coda",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Webflow",
+      "ats": "greenhouse",
+      "slug_or_url": "webflow",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Airtable",
+      "ats": "greenhouse",
+      "slug_or_url": "airtable",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Asana",
+      "ats": "greenhouse",
+      "slug_or_url": "asana",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "ClickUp",
+      "ats": "greenhouse",
+      "slug_or_url": "clickup",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Navan",
+      "ats": "greenhouse",
+      "slug_or_url": "navan",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Rippling",
+      "ats": "greenhouse",
+      "slug_or_url": "rippling",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Carvana",
+      "ats": "greenhouse",
+      "slug_or_url": "carvana",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Toast",
+      "ats": "greenhouse",
+      "slug_or_url": "toast",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "ServiceTitan",
+      "ats": "greenhouse",
+      "slug_or_url": "servicetitan",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Hippo Insurance",
+      "ats": "greenhouse",
+      "slug_or_url": "hippo",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "SoFi",
+      "ats": "greenhouse",
+      "slug_or_url": "sofi",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Momentive",
+      "ats": "greenhouse",
+      "slug_or_url": "momentive",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Expensify",
+      "ats": "greenhouse",
+      "slug_or_url": "expensify",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Squarespace",
+      "ats": "greenhouse",
+      "slug_or_url": "squarespace",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Etsy",
+      "ats": "greenhouse",
+      "slug_or_url": "etsy",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Wayfair",
+      "ats": "greenhouse",
+      "slug_or_url": "wayfair",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Peloton",
+      "ats": "greenhouse",
+      "slug_or_url": "peloton",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Chewy",
+      "ats": "greenhouse",
+      "slug_or_url": "chewy",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Hubspot",
+      "ats": "lever",
+      "slug_or_url": "hubspot",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Zendesk",
+      "ats": "lever",
+      "slug_or_url": "zendesk",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Cloudflare",
+      "ats": "lever",
+      "slug_or_url": "cloudflare",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Coursera",
+      "ats": "lever",
+      "slug_or_url": "coursera",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Pagerduty",
+      "ats": "lever",
+      "slug_or_url": "pagerduty",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Loom",
+      "ats": "lever",
+      "slug_or_url": "loom",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Calendly",
+      "ats": "lever",
+      "slug_or_url": "calendly",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Miro",
+      "ats": "lever",
+      "slug_or_url": "miro",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Thoughtspot",
+      "ats": "lever",
+      "slug_or_url": "thoughtspot",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Sumo Logic",
+      "ats": "lever",
+      "slug_or_url": "sumo-logic",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Fivetran",
+      "ats": "lever",
+      "slug_or_url": "fivetran",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Productboard",
+      "ats": "lever",
+      "slug_or_url": "productboard",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Launchdarkly",
+      "ats": "lever",
+      "slug_or_url": "launchdarkly",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Segment",
+      "ats": "lever",
+      "slug_or_url": "segment",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Twilio",
+      "ats": "lever",
+      "slug_or_url": "twilio",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Sendgrid",
+      "ats": "lever",
+      "slug_or_url": "sendgrid",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Elastic",
+      "ats": "lever",
+      "slug_or_url": "elastic",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Hashicorp",
+      "ats": "lever",
+      "slug_or_url": "hashicorp",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Terraform",
+      "ats": "lever",
+      "slug_or_url": "terraform",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Cockroachlabs",
+      "ats": "lever",
+      "slug_or_url": "cockroachlabs",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Collibra",
+      "ats": "lever",
+      "slug_or_url": "collibra",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Contentful",
+      "ats": "lever",
+      "slug_or_url": "contentful",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "High Radius",
+      "ats": "lever",
+      "slug_or_url": "high-radius",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Sprinklr",
+      "ats": "lever",
+      "slug_or_url": "sprinklr",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Bazaarvoice",
+      "ats": "lever",
+      "slug_or_url": "bazaarvoice",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Freshworks",
+      "ats": "lever",
+      "slug_or_url": "freshworks",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Harness",
+      "ats": "lever",
+      "slug_or_url": "harness",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Chronosphere",
+      "ats": "lever",
+      "slug_or_url": "chronosphere",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Starburst",
+      "ats": "lever",
+      "slug_or_url": "starburst",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Immuta",
+      "ats": "lever",
+      "slug_or_url": "immuta",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Alation",
+      "ats": "lever",
+      "slug_or_url": "alation",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Atlan",
+      "ats": "lever",
+      "slug_or_url": "atlan",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Montecarlo Data",
+      "ats": "lever",
+      "slug_or_url": "montecarlo-data",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Acceldata",
+      "ats": "lever",
+      "slug_or_url": "acceldata",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Fiddler Ai",
+      "ats": "lever",
+      "slug_or_url": "fiddler-ai",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Arize Ai",
+      "ats": "lever",
+      "slug_or_url": "arize-ai",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Attabotics",
+      "ats": "greenhouse",
+      "slug_or_url": "attabotics",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Helcim",
+      "ats": "greenhouse",
+      "slug_or_url": "helcim",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Vendasta",
+      "ats": "greenhouse",
+      "slug_or_url": "vendasta",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "AltaGas",
+      "ats": "workday",
+      "slug_or_url": "wgl.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "wgl",
+        "job_type": "AltaGas"
+      }
+    },
+    {
+      "name": "Brex",
+      "ats": "greenhouse",
+      "slug_or_url": "brex",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Plaid",
+      "ats": "greenhouse",
+      "slug_or_url": "plaid",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Carta",
+      "ats": "greenhouse",
+      "slug_or_url": "carta",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Databricks",
+      "ats": "greenhouse",
+      "slug_or_url": "databricks",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Confluent",
+      "ats": "greenhouse",
+      "slug_or_url": "confluent",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Braze",
+      "ats": "greenhouse",
+      "slug_or_url": "braze",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Scale AI",
+      "ats": "greenhouse",
+      "slug_or_url": "scaleai",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "slug_or_url": "anthropic",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "OpenAI",
+      "ats": "greenhouse",
+      "slug_or_url": "openai",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Datadog",
+      "ats": "greenhouse",
+      "slug_or_url": "datadoghq",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Grafana Labs",
+      "ats": "greenhouse",
+      "slug_or_url": "grafanalabs",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Mixpanel",
+      "ats": "greenhouse",
+      "slug_or_url": "mixpanel",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Pendo",
+      "ats": "greenhouse",
+      "slug_or_url": "pendo",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Intercom",
+      "ats": "greenhouse",
+      "slug_or_url": "intercom",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Modern Health",
+      "ats": "greenhouse",
+      "slug_or_url": "modernhealth",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Grammarly",
+      "ats": "greenhouse",
+      "slug_or_url": "grammarly",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Canva",
+      "ats": "greenhouse",
+      "slug_or_url": "canva",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "CrowdStrike",
+      "ats": "greenhouse",
+      "slug_or_url": "crowdstrike",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "SentinelOne",
+      "ats": "greenhouse",
+      "slug_or_url": "sentinelone",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Palo Alto Networks",
+      "ats": "greenhouse",
+      "slug_or_url": "paloaltonetworks",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Rubrik",
+      "ats": "greenhouse",
+      "slug_or_url": "rubrik",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Tanium",
+      "ats": "greenhouse",
+      "slug_or_url": "tanium",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Forter",
+      "ats": "greenhouse",
+      "slug_or_url": "forter",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Canadian Tire Corporation",
+      "ats": "workday",
+      "slug_or_url": "canadiantirecorporation.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "canadiantirecorporation",
+        "job_type": "Enterprise_External_Careers_Site"
+      }
+    },
+    {
+      "name": "CAE Inc.",
+      "ats": "workday",
+      "slug_or_url": "cae.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "cae",
+        "job_type": "career"
+      }
+    },
+    {
+      "name": "Alberta Blue Cross",
+      "ats": "workday",
+      "slug_or_url": "abbluecross.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "abbluecross",
+        "job_type": "careers"
+      }
+    },
+    {
+      "name": "WCB-Alberta",
+      "ats": "workday",
+      "slug_or_url": "wcbalberta.wd10.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "wcbalberta",
+        "job_type": "wcbalbertacareers"
+      }
+    },
+    {
+      "name": "Alberta Energy Regulator",
+      "ats": "workday",
+      "slug_or_url": "aer.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "aer",
+        "job_type": "AER"
+      }
+    },
+    {
+      "name": "Keyera",
+      "ats": "workday",
+      "slug_or_url": "keyera.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "keyera",
+        "job_type": "Keyera_Careers"
+      }
+    },
+    {
+      "name": "ENMAX",
+      "ats": "workday",
+      "slug_or_url": "enmax.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "enmax",
+        "job_type": "ENMAXCareers"
+      }
+    },
+    {
+      "name": "Strathcona Resources",
+      "ats": "workday",
+      "slug_or_url": "strathconaresources.wd10.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "strathconaresources",
+        "job_type": "Careers"
+      }
+    },
+    {
+      "name": "WestJet (Swoop)",
+      "ats": "workday",
+      "slug_or_url": "flyswoop.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "short_slug": "flyswoop",
+        "job_type": "FlySwoop"
+      }
+    },
+    {
+      "name": "1Password",
+      "ats": "lever",
+      "slug_or_url": "1password",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Remote",
+      "ats": "lever",
+      "slug_or_url": "remote",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Mercury",
+      "ats": "lever",
+      "slug_or_url": "mercury",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Glean",
+      "ats": "lever",
+      "slug_or_url": "glean",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Roblox",
+      "ats": "greenhouse",
+      "slug_or_url": "roblox",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Betterment",
+      "ats": "greenhouse",
+      "slug_or_url": "betterment",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Wealthfront",
+      "ats": "greenhouse",
+      "slug_or_url": "wealthfront",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Kraken",
+      "ats": "greenhouse",
+      "slug_or_url": "kraken",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Chainalysis",
+      "ats": "greenhouse",
+      "slug_or_url": "chainalysis",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Justworks",
+      "ats": "greenhouse",
+      "slug_or_url": "justworks",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Cloudinary",
+      "ats": "greenhouse",
+      "slug_or_url": "cloudinary",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Airbyte",
+      "ats": "greenhouse",
+      "slug_or_url": "airbyte",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Metabase",
+      "ats": "greenhouse",
+      "slug_or_url": "metabase",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Yelp",
+      "ats": "greenhouse",
+      "slug_or_url": "yelp",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Tripadvisor",
+      "ats": "greenhouse",
+      "slug_or_url": "tripadvisor",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Netlify",
+      "ats": "greenhouse",
+      "slug_or_url": "netlify",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Supabase",
+      "ats": "greenhouse",
+      "slug_or_url": "supabase",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Replit",
+      "ats": "greenhouse",
+      "slug_or_url": "replit",
+      "monitored": true,
+      "meta": {}
+    },
+    {
+      "name": "Okta",
+      "ats": "greenhouse",
+      "slug_or_url": "okta",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 53,
+        "ats_local_salary": 8
+      }
+    },
+    {
+      "name": "Monks",
+      "ats": "greenhouse",
+      "slug_or_url": "monks",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 11,
+        "ats_local_salary": 11
+      }
+    },
+    {
+      "name": "Sait",
+      "ats": "lever",
+      "slug_or_url": "sait",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 8,
+        "ats_local_salary": 5
+      }
+    },
+    {
+      "name": "Intersect",
+      "ats": "lever",
+      "slug_or_url": "intersect",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 1,
+        "ats_local_salary": 1,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Carewest",
+      "ats": "lever",
+      "slug_or_url": "carewest",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 51,
+        "ats_local_salary": 50
+      }
+    },
+    {
+      "name": "Knix",
+      "ats": "lever",
+      "slug_or_url": "knix",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 5,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Evr",
+      "ats": "lever",
+      "slug_or_url": "evr",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 2,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Lvs1",
+      "ats": "lever",
+      "slug_or_url": "lvs1",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 16,
+        "ats_local_salary": 15
+      }
+    },
+    {
+      "name": "Altaml",
+      "ats": "lever",
+      "slug_or_url": "altaml",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 7,
+        "ats_local_salary": 1
+      }
+    },
+    {
+      "name": "Flynncompanies",
+      "ats": "lever",
+      "slug_or_url": "flynncompanies",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 17,
+        "ats_local_salary": 2
+      }
+    },
+    {
+      "name": "Pharmachoicecanada",
+      "ats": "lever",
+      "slug_or_url": "pharmachoicecanada",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 5,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Dialogdesign",
+      "ats": "lever",
+      "slug_or_url": "dialogdesign",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 10,
+        "ats_local_salary": 9
+      }
+    },
+    {
+      "name": "Pano Ai",
+      "ats": "ashby",
+      "slug_or_url": "pano-ai",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 1,
+        "ats_local_salary": 1,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Ashby",
+      "ats": "ashby",
+      "slug_or_url": "ashby",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 5,
+        "ats_local_salary": 5
+      }
+    },
+    {
+      "name": "Nerdwallet",
+      "ats": "ashby",
+      "slug_or_url": "nerdwallet",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 4,
+        "ats_local_salary": 4
+      }
+    },
+    {
+      "name": "Directive",
+      "ats": "ashby",
+      "slug_or_url": "directive",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 40,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "H2Analytics",
+      "ats": "ashby",
+      "slug_or_url": "h2analytics",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 6,
+        "ats_local_salary": 3
+      }
+    },
+    {
+      "name": "Wrapbook",
+      "ats": "ashby",
+      "slug_or_url": "wrapbook",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 15,
+        "ats_local_salary": 15
+      }
+    },
+    {
+      "name": "Aecom2",
+      "ats": "smartrecruiters",
+      "slug_or_url": "AECOM2",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 16,
+        "ats_local_salary": 16
+      }
+    },
+    {
+      "name": "Universityhealthnetwork",
+      "ats": "smartrecruiters",
+      "slug_or_url": "UniversityHealthNetwork",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 100,
+        "ats_local_salary": 97
+      }
+    },
+    {
+      "name": "Egisgroup",
+      "ats": "smartrecruiters",
+      "slug_or_url": "EgisGroup",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 10,
+        "ats_local_salary": 10
+      }
+    },
+    {
+      "name": "Townofstonyplain",
+      "ats": "smartrecruiters",
+      "slug_or_url": "TownOfStonyPlain",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 2,
+        "ats_local_salary": 1,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Sodexocanadaltd",
+      "ats": "smartrecruiters",
+      "slug_or_url": "SodexoCanadaLtd",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 100,
+        "ats_local_salary": 63
+      }
+    },
+    {
+      "name": "Gdmsi",
+      "ats": "smartrecruiters",
+      "slug_or_url": "GDMSI",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 67,
+        "ats_local_salary": 12
+      }
+    },
+    {
+      "name": "Sia",
+      "ats": "smartrecruiters",
+      "slug_or_url": "Sia",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 1,
+        "ats_local_salary": 1,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Flintcorp1",
+      "ats": "smartrecruiters",
+      "slug_or_url": "FLINTCorp1",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 78,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Ceda1",
+      "ats": "smartrecruiters",
+      "slug_or_url": "CEDA1",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 36,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Sgs",
+      "ats": "smartrecruiters",
+      "slug_or_url": "SGS",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "strong",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 10,
+        "ats_local_salary": 5
+      }
+    },
+    {
+      "name": "Cdprojektred",
+      "ats": "smartrecruiters",
+      "slug_or_url": "CDPROJEKTRED",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-28",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 9,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-04"
+      }
+    },
+    {
+      "name": "Suncor.Wd1",
+      "ats": "workday",
+      "slug_or_url": "suncor.wd1.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 19,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "suncor",
+        "job_type": "Suncor_External"
+      }
+    },
+    {
+      "name": "Td.Wd3",
+      "ats": "workday",
+      "slug_or_url": "td.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 5,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "td",
+        "job_type": "TD_Bank_Careers"
+      }
+    },
+    {
+      "name": "Enbridge.Wd3",
+      "ats": "workday",
+      "slug_or_url": "enbridge.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 18,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "enbridge",
+        "job_type": "enbridge_careers"
+      }
+    },
+    {
+      "name": "Clio.Wd3",
+      "ats": "workday",
+      "slug_or_url": "clio.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 9,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "clio",
+        "job_type": "ClioCareerSite"
+      }
+    },
+    {
+      "name": "Airproducts.Wd5",
+      "ats": "workday",
+      "slug_or_url": "airproducts.wd5.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 1,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "airproducts",
+        "job_type": "AP0001"
+      }
+    },
+    {
+      "name": "Otppb.Wd3",
+      "ats": "workday",
+      "slug_or_url": "otppb.wd3.myworkdayjobs.com",
+      "monitored": true,
+      "meta": {
+        "promoted_at": "2026-05-29",
+        "promotion_tier": "trial",
+        "discovery_source": "phase7_ats_sweep",
+        "discovery_hub": "ab",
+        "ats_local_jobs": 33,
+        "ats_local_salary": 0,
+        "trial_until": "2026-06-05",
+        "short_slug": "otppb",
+        "job_type": "OntarioTeachers_Careers"
+      }
+    }
+  ],
+  "expanded_at": "2026-05-27"
+}
