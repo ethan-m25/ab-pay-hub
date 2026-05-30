@@ -25,7 +25,7 @@ from datetime import date, timedelta
 
 sys.path.insert(0, os.path.dirname(__file__))
 from _common import (
-    make_logger, acquire_lock, exa_search, load_existing_keys, write_job,
+    make_logger, acquire_lock, exa_search, load_existing_keys, load_existing_urls, write_job,
     TODAY, OUTPUT_FILE,
 )
 
@@ -40,24 +40,10 @@ log = make_logger(LOG_FILE)
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 # ── Seed tenants ─────────────────────────────────────────────────────────────
-SEED_TENANTS = [
-    ("suncor.wd3.myworkdayjobs.com", "suncor", "External", "Suncor Energy"),
-    ("cenovus.wd5.myworkdayjobs.com", "cenovus", "External", "Cenovus Energy"),
-    ("tcenergy.wd3.myworkdayjobs.com", "tcenergy", "CAREER_SITE_TC", "TC Energy"),
-    ("enbridge.wd3.myworkdayjobs.com", "enbridge", "Enbridge_Careers", "Enbridge"),
-    ("nutrien.wd5.myworkdayjobs.com", "nutrien", "External", "Nutrien"),
-    ("westjet.wd5.myworkdayjobs.com", "westjet", "WestJetCareers", "WestJet"),
-    ("rbc.wd3.myworkdayjobs.com", "rbc", "RBCGLOBAL1", "RBC"),
-    ("td.wd3.myworkdayjobs.com", "td", "TD_Bank_Careers", "TD Bank"),
-    ("bmo.wd3.myworkdayjobs.com", "bmo", "External", "BMO"),
-    ("cibc.wd3.myworkdayjobs.com", "cibc", "search", "CIBC"),
-    ("manulife.wd3.myworkdayjobs.com", "manulife", "MFCJH_Jobs", "Manulife"),
-    ("sunlife.wd3.myworkdayjobs.com", "sunlife", "Experienced-Jobs", "Sun Life"),
-    ("intactfc.wd3.myworkdayjobs.com", "intactfc", "IntactFC", "Intact Financial"),
-    ("pwc.wd3.myworkdayjobs.com", "pwc", "Global_Experienced_Careers", "PwC"),
-    ("bdo.wd3.myworkdayjobs.com", "bdo", "BDO", "BDO Canada"),
-    ("walmart.wd5.myworkdayjobs.com", "walmart", "WalmartExternal", "Walmart Canada"),
-]
+# === Phase 4 seed loader (added 2026-05-27) ===
+sys.path.insert(0, os.path.expanduser('~/shared-scripts'))
+from hub_employer_seeds import load_workday_seeds
+SEED_TENANTS = load_workday_seeds('ab')
 
 KNOWN_COMPANY_OVERRIDES = {
     "suncor": "Suncor Energy",
@@ -620,6 +606,7 @@ def main():
 
     existing_keys = load_existing_keys()
     seen_keys = set(existing_keys)
+    seen_urls = load_existing_urls()
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     total_found = 0
@@ -697,6 +684,9 @@ def main():
             location = parse_location(locations, ext_path)
             source_url = f"https://{host}/en-US/{tenant}{ext_path}"
 
+            if source_url in seen_urls:
+                continue
+
             # Resolve display company name: HTML JSON-LD > tenant-derived name
             resolved_company = extract_company_from_html(text) or company_name
             if resolved_company != company_name:
@@ -719,6 +709,7 @@ def main():
             }
 
             seen_keys.add(key)
+            seen_urls.add(source_url)
             write_job(OUTPUT_FILE, job)
             total_found += 1
             log(f"    → FOUND: ${val_min:,}–${val_max:,} [{location}]")
