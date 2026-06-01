@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T13:16:56.764531+00:00",
-    "total_jobs": 367,
-    "enriched": 305
+    "built_at": "2026-06-01T12:30:59.565163+00:00",
+    "total_jobs": 357,
+    "enriched": 295
   },
   "jobs": {
     "customer-support-spe-velora-28696276": {
@@ -235,27 +235,6 @@
         "machine",
         "learning",
         "cloud"
-      ],
-      "core_skills": [
-        "python",
-        "java",
-        "javascript"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "branch-manager-ii-the-toronto-dom-01808707": {
-      "summary": "This role involves developing and maintaining data-driven applications using Python, Java, and JavaScript.",
-      "key_skills": [
-        "python",
-        "java",
-        "javascript",
-        "sql",
-        "data",
-        "analytics",
-        "machine"
       ],
       "core_skills": [
         "python",
@@ -863,21 +842,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "investment-counsello-bank-of-montrea-49729755": {
-      "summary": "Works with data to analyze and solve business problems",
-      "key_skills": [
-        "python",
-        "data",
-        "analysis"
-      ],
-      "core_skills": [
-        "data"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "senior-estate-insura-bmo-nesbitt-bur-49729755": {
       "summary": "Analyst works on data analysis tasks",
       "key_skills": [
@@ -963,21 +927,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "java-software-applic-bank-of-montrea-49729756": {
-      "summary": "Works with data to analyze and solve business problems",
-      "key_skills": [
-        "python",
-        "data",
-        "analysis"
-      ],
-      "core_skills": [
-        "data"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "developer-lead--java-bank-of-montrea-49729756": {
       "summary": "Analyst works on data analysis tasks",
@@ -5209,24 +5158,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "workday-technology-a-kpmg-70943142": {
-      "summary": "Senior Manager responsible for designing and implementing Workday technology solutions across multiple locations.",
-      "key_skills": [
-        "workday",
-        "technology",
-        "architect",
-        "senior",
-        "manager"
-      ],
-      "core_skills": [
-        "workday",
-        "technology"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "data-support-senior--kpmg-70943142": {
       "summary": "Data Support Senior Consultant provides data support services across multiple locations.",
       "key_skills": [
@@ -5317,28 +5248,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "senior-consultant--m-kpmg-70943142": {
-      "summary": "Senior Consultant works on data engineering and data science projects using Microsoft Fabric, Azure, and other cloud technologies to solve business problems.",
-      "key_skills": [
-        "microsoft fabric",
-        "data engineering",
-        "data science",
-        "cloud computing",
-        "azure",
-        "sql",
-        "python",
-        "power bi"
-      ],
-      "core_skills": [
-        "microsoft fabric",
-        "data engineering",
-        "azure"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "contract-manager-kpmg-70943142": {
       "summary": "Manages contracts across multiple locations for KPMG.",
       "key_skills": [
@@ -5380,36 +5289,6 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "manager--audit---sys-kpmg-70943142": {
-      "summary": "Manages audit activities for quality management systems across multiple locations",
-      "key_skills": [
-        "audit",
-        "quality management"
-      ],
-      "core_skills": [
-        "audit"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "ai-platform-administ-kpmg-70943142": {
-      "summary": "Manages and maintains AI platform infrastructure for client engagements.",
-      "key_skills": [
-        "ai",
-        "platform",
-        "administrator"
-      ],
-      "core_skills": [
-        "cloud",
-        "infrastructure"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "senior-consultant--t-kpmg-70943142": {
       "summary": "senior consultant working in transaction services",
@@ -5553,21 +5432,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "ai-builder--manager-kpmg-70943143": {
-      "summary": "Manages AI projects across multiple locations",
-      "key_skills": [
-        "ai",
-        "builder",
-        "manager"
-      ],
-      "core_skills": [
-        "ai"
-      ],
-      "seniority_signal": "manager",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "senior-manager--data-kpmg-70943143": {
       "summary": "Senior Manager leads data and automation solutions teams across multiple locations.",
       "key_skills": [
@@ -5600,22 +5464,6 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "system-server-admini-kpmg-70943143": {
-      "summary": "System Server Administrator manages and maintains server infrastructure across multiple locations.",
-      "key_skills": [
-        "system",
-        "server",
-        "administration"
-      ],
-      "core_skills": [
-        "system",
-        "server"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "solution-advisor-sap-70943143": {
       "summary": "Solution Advisor supports sales teams with deep SAP EAM expertise, providing solution demonstrations, customer engagement, and configuration to maximize SAP value for clients.",
@@ -5910,29 +5758,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "dynamics-365-finance-lvs1-57304721": {
-      "summary": "Oversees design, architecture, and implementation of Dynamics 365 Finance and Operations solutions, leads teams of consultants and developers, and ensures client success through innovative solutions and strategic alignment.",
-      "key_skills": [
-        "dynamics 365 finance",
-        "dynamics 365 operations",
-        "solution architecture",
-        "agile/scrum",
-        "azure",
-        "enterprise architecture",
-        "microsoft MVP",
-        "dynamics fasttrack"
-      ],
-      "core_skills": [
-        "solution architecture",
-        "agile/scrum",
-        "azure",
-        "enterprise architecture"
-      ],
-      "seniority_signal": "lead",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "global-service-desk--lvs1-57304721": {
       "summary": "Provides tier I support for IT and communications systems, resolves customer issues, and manages incident lifecycles through ticket management systems.",
       "key_skills": [
@@ -6040,29 +5865,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "security-technical-a-lvs1-57304721": {
-      "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
-      "key_skills": [
-        "security",
-        "architecture",
-        "cloud",
-        "identity",
-        "threat",
-        "vulnerability",
-        "ai",
-        "data"
-      ],
-      "core_skills": [
-        "security_architecture",
-        "cloud_security",
-        "identity_access_management",
-        "threat_protection"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
     },
     "senior-executive-ass-lvs1-57304721": {
       "summary": "Supports senior leadership with calendar management, meetings, travel, and strategic planning while leveraging AI tools to enhance efficiency and coordination across the organization.",
@@ -6413,6 +6215,29 @@
         "systems thinking",
         "design review",
         "regulatory compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "security-technical-a-lvs1-16753385": {
+      "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
+      "key_skills": [
+        "security",
+        "architecture",
+        "cloud",
+        "identity",
+        "threat",
+        "vulnerability",
+        "ai",
+        "data"
+      ],
+      "core_skills": [
+        "security_architecture",
+        "cloud_security",
+        "identity_access_management",
+        "threat_protection"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
