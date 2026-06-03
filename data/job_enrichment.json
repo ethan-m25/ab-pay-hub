@@ -1,7 +1,7 @@
 {
   "meta": {
-    "built_at": "2026-06-01T12:30:59.565163+00:00",
-    "total_jobs": 357,
+    "built_at": "2026-06-03T11:06:51.608019+00:00",
+    "total_jobs": 370,
     "enriched": 295
   },
   "jobs": {
@@ -6221,25 +6221,25 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "security-technical-a-lvs1-16753385": {
-      "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
+    "research-associate---sait-82940990": {
+      "summary": "Coordinates projects for green building technology initiatives, manages industry partners and vendors, and supports research activities within SAIT's Green Building Technology Access Centre.",
       "key_skills": [
-        "security",
-        "architecture",
-        "cloud",
-        "identity",
-        "threat",
-        "vulnerability",
-        "ai",
-        "data"
+        "project coordination",
+        "engineering processes",
+        "construction background",
+        "building energy systems",
+        "data analysis",
+        "material testing",
+        "project management",
+        "technical writing"
       ],
       "core_skills": [
-        "security_architecture",
-        "cloud_security",
-        "identity_access_management",
-        "threat_protection"
+        "project coordination",
+        "engineering processes",
+        "construction background",
+        "building energy systems"
       ],
-      "seniority_signal": "senior",
+      "seniority_signal": "entry",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
