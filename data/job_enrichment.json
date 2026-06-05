@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:40:54.679214+00:00",
-    "total_jobs": 375,
-    "enriched": 301
+    "built_at": "2026-06-05T10:38:43.857955+00:00",
+    "total_jobs": 377,
+    "enriched": 304
   },
   "jobs": {
     "customer-support-spe-velora-28696276": {
@@ -1114,6 +1114,29 @@
         "budget management",
         "customer service",
         "inventory control"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "-can--front-end-assi-wal-mart-canada-49729757": {
+      "summary": "Supports store operations and drives profitable sales through budget management, sales forecasting, and customer service leadership while ensuring compliance with company policies.",
+      "key_skills": [
+        "store management",
+        "sales",
+        "profitability",
+        "budget",
+        "merchandise",
+        "customer service",
+        "safety",
+        "asset protection"
+      ],
+      "core_skills": [
+        "sales forecasting",
+        "budget management",
+        "customer service leadership",
+        "operational planning"
       ],
       "seniority_signal": "mid",
       "role_type": "manager",
@@ -4048,29 +4071,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "senior-risk-manageme-grafanalabs-70943141": {
-      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
-      "key_skills": [
-        "golang",
-        "kubernetes",
-        "prometheus",
-        "grafana",
-        "cloud",
-        "data",
-        "metrics",
-        "observability"
-      ],
-      "core_skills": [
-        "golang",
-        "kubernetes",
-        "prometheus",
-        "grafana"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "senior-solutions-eng-grafanalabs-70943141": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -4113,6 +4113,29 @@
         "observability"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-cloud-part-grafanalabs-70943141": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -5909,6 +5932,27 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "site-manager-lvs1-57304721": {
+      "summary": "Site manager responsible for client engagement, service delivery, and managing client infrastructure within a managed services environment",
+      "key_skills": [
+        "itil",
+        "itsm",
+        "managed_services",
+        "client_engagement",
+        "service_delivery",
+        "incident_management",
+        "problem_management",
+        "change_management"
+      ],
+      "core_skills": [
+        "itil",
+        "itsm"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "vice-president--sale-lvs1-57304721": {
       "summary": "Vice President of Sales leads high-performing teams to drive business growth, deepen client relationships, and expand market share through strategic deal planning and AI-focused solutions.",
       "key_skills": [
@@ -6244,29 +6288,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "security-compliance--twilio-82940990": {
-      "summary": "Security Compliance & Regulatory Affairs Analyst independently owns regulatory analysis, triage, and operationalization of global cybersecurity and telecom regulatory obligations while collaborating with cross-functional teams to ensure audit readiness and risk mitigation.",
-      "key_skills": [
-        "security",
-        "compliance",
-        "regulatory",
-        "affairs",
-        "ai",
-        "data",
-        "cloud",
-        "telecom"
-      ],
-      "core_skills": [
-        "regulatory",
-        "compliance",
-        "interpretation",
-        "mapping"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "director-of-pricing--pagerduty-82940990": {
       "summary": "Owns strategy and execution of packaging, pricing, and monetization for PagerDuty's Operations Cloud platform, working closely with Product, Sales, Finance, and Marketing to ensure pricing translates into commercial results.",
       "key_skills": [
@@ -6355,7 +6376,51 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "security-technical-a-lvs1-82940990": {
+    "security-compliance--twilio-55564296": {
+      "summary": "Security Compliance & Regulatory Affairs Analyst independently owns regulatory analysis, triage, and operationalization of global cybersecurity and telecom regulations while collaborating with cross-functional teams to ensure audit readiness and risk mitigation.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "regulatory",
+        "affairs",
+        "ai",
+        "data",
+        "cloud",
+        "telecom"
+      ],
+      "core_skills": [
+        "regulatory",
+        "compliance",
+        "mapping",
+        "interpretation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "avp-executive-assist-sait-55564296": {
+      "summary": "Provides administrative support to the AVP Finance and leadership team by managing calendars, scheduling meetings, preparing reports, and coordinating communications.",
+      "key_skills": [
+        "equation",
+        "diligence",
+        "accuracy",
+        "customer-focused",
+        "financial health",
+        "institution"
+      ],
+      "core_skills": [
+        "administrative support",
+        "calendar management",
+        "meeting coordination",
+        "report preparation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "security-technical-a-lvs1-55564296": {
       "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
       "key_skills": [
         "security",
@@ -6370,7 +6435,7 @@
       "core_skills": [
         "security_architecture",
         "cloud_security",
-        "identity_access_management",
+        "identity_management",
         "threat_protection"
       ],
       "seniority_signal": "senior",
