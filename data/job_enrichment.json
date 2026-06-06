@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T10:38:43.857955+00:00",
-    "total_jobs": 377,
-    "enriched": 304
+    "built_at": "2026-06-06T10:34:57.317987+00:00",
+    "total_jobs": 381,
+    "enriched": 305
   },
   "jobs": {
     "customer-support-spe-velora-28696276": {
@@ -4117,29 +4117,6 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "strategic-cloud-part-grafanalabs-70943141": {
-      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
-      "key_skills": [
-        "golang",
-        "kubernetes",
-        "prometheus",
-        "grafana",
-        "cloud",
-        "data",
-        "metrics",
-        "observability"
-      ],
-      "core_skills": [
-        "golang",
-        "kubernetes",
-        "prometheus",
-        "grafana"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "ap---employee-expens-mixpanel-70943141": {
       "summary": "The AP & Employee Expense Specialist owns Mixpanel's accounts payable and employee expense programs, managing daily transactional workflows across Zip and Navan platforms while ensuring accuracy, timeliness, and proactive resolution of financial issues.",
       "key_skills": [
@@ -6376,7 +6353,28 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "security-compliance--twilio-55564296": {
+    "avp-executive-assist-sait-55564296": {
+      "summary": "Provides administrative support to the AVP Finance and leadership team by managing calendars, scheduling meetings, preparing reports, and coordinating communications.",
+      "key_skills": [
+        "equation",
+        "diligence",
+        "accuracy",
+        "customer-focused",
+        "financial health",
+        "institution"
+      ],
+      "core_skills": [
+        "administrative support",
+        "calendar management",
+        "meeting coordination",
+        "report preparation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "security-compliance--twilio-41934473": {
       "summary": "Security Compliance & Regulatory Affairs Analyst independently owns regulatory analysis, triage, and operationalization of global cybersecurity and telecom regulations while collaborating with cross-functional teams to ensure audit readiness and risk mitigation.",
       "key_skills": [
         "security",
@@ -6399,28 +6397,30 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "avp-executive-assist-sait-55564296": {
-      "summary": "Provides administrative support to the AVP Finance and leadership team by managing calendars, scheduling meetings, preparing reports, and coordinating communications.",
+    "instructor--medical--sait-41934473": {
+      "summary": "Instructor facilitates hands-on medical laboratory training for students, providing clinical supervision, assessments, and support to ensure student success in medical laboratory technology and assistant programs.",
       "key_skills": [
-        "equation",
-        "diligence",
-        "accuracy",
-        "customer-focused",
-        "financial health",
-        "institution"
+        "medical laboratory technology",
+        "medical laboratory assistant",
+        "instructional facilitation",
+        "clinical training",
+        "student support",
+        "laboratory management",
+        "assessment",
+        "program development"
       ],
       "core_skills": [
-        "administrative support",
-        "calendar management",
-        "meeting coordination",
-        "report preparation"
+        "clinical expertise",
+        "instructional design",
+        "student engagement",
+        "regulatory compliance"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
-      "work_mode_derived": "unknown"
+      "work_mode_derived": "onsite"
     },
-    "security-technical-a-lvs1-55564296": {
+    "security-technical-a-lvs1-41934473": {
       "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
       "key_skills": [
         "security",
@@ -6437,6 +6437,29 @@
         "cloud_security",
         "identity_management",
         "threat_protection"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-network-consu-lvs1-41934473": {
+      "summary": "Senior Network Consultant designs and implements industry-leading network solutions for clients while troubleshooting and maintaining network infrastructure.",
+      "key_skills": [
+        "networking",
+        "security",
+        "troubleshooting",
+        "design",
+        "implementation",
+        "firewalls",
+        "ips",
+        "ids"
+      ],
+      "core_skills": [
+        "networking",
+        "security",
+        "troubleshooting",
+        "design"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
