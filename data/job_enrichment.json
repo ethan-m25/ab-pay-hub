@@ -1,6 +1,6 @@
 {
   "meta": {
-    "built_at": "2026-06-06T10:34:57.317987+00:00",
+    "built_at": "2026-06-07T10:25:14.859901+00:00",
     "total_jobs": 381,
     "enriched": 305
   },
@@ -6374,29 +6374,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "security-compliance--twilio-41934473": {
-      "summary": "Security Compliance & Regulatory Affairs Analyst independently owns regulatory analysis, triage, and operationalization of global cybersecurity and telecom regulations while collaborating with cross-functional teams to ensure audit readiness and risk mitigation.",
-      "key_skills": [
-        "security",
-        "compliance",
-        "regulatory",
-        "affairs",
-        "ai",
-        "data",
-        "cloud",
-        "telecom"
-      ],
-      "core_skills": [
-        "regulatory",
-        "compliance",
-        "mapping",
-        "interpretation"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
     "instructor--medical--sait-41934473": {
       "summary": "Instructor facilitates hands-on medical laboratory training for students, providing clinical supervision, assessments, and support to ensure student success in medical laboratory technology and assistant programs.",
       "key_skills": [
@@ -6420,29 +6397,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "security-technical-a-lvs1-41934473": {
-      "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
-      "key_skills": [
-        "security",
-        "architecture",
-        "cloud",
-        "identity",
-        "threat",
-        "vulnerability",
-        "ai",
-        "data"
-      ],
-      "core_skills": [
-        "security_architecture",
-        "cloud_security",
-        "identity_management",
-        "threat_protection"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "senior-network-consu-lvs1-41934473": {
       "summary": "Senior Network Consultant designs and implements industry-leading network solutions for clients while troubleshooting and maintaining network infrastructure.",
       "key_skills": [
@@ -6460,6 +6414,52 @@
         "security",
         "troubleshooting",
         "design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "security-compliance--twilio-27783883": {
+      "summary": "Security Compliance & Regulatory Affairs Analyst independently owns regulatory analysis, triage, and operationalization of global cybersecurity and telecom regulations while collaborating with cross-functional teams to ensure audit readiness and risk mitigation.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "regulatory",
+        "affairs",
+        "ai",
+        "data",
+        "cloud",
+        "telecom"
+      ],
+      "core_skills": [
+        "regulatory",
+        "compliance",
+        "mapping",
+        "interpretation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "security-technical-a-lvs1-27783883": {
+      "summary": "Security Technical Architect designs and implements secure architectures for business continuity, risk management, and IT resilience while delivering projects from initiation to implementation.",
+      "key_skills": [
+        "security",
+        "architecture",
+        "cloud",
+        "identity",
+        "threat",
+        "vulnerability",
+        "ai",
+        "data"
+      ],
+      "core_skills": [
+        "security_architecture",
+        "cloud_security",
+        "identity_management",
+        "threat_protection"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
