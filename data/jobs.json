@@ -2,9 +2,9 @@
   "meta": {
     "count": 740,
     "active": 382,
-    "new_today": 10,
+    "new_today": 4,
     "links_newly_archived": 0,
-    "updated": "2026-07-25T04:52:45Z",
+    "updated": "2026-07-26T05:20:24Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
@@ -24351,6 +24351,33 @@
       "last_seen": "2026-07-25",
       "location_display": "Calgary, AB",
       "location_city": "Calgary"
+    },
+    {
+      "role": "Credit Risk Senior Manager",
+      "company": "Marqeta",
+      "min": 180600,
+      "max": 225800,
+      "location": "Remote (AB)",
+      "source_url": "https://job-boards.greenhouse.io/marqeta/jobs/7978451",
+      "posted": "2026-06-25",
+      "source_platform": "greenhouse",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 45200,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "credit-risk-senior-m-marqeta-43224097",
+      "status": "active",
+      "date_added": "2026-07-26",
+      "scraped": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location_display": "Remote (AB)",
+      "location_city": ""
     }
   ]
 }
