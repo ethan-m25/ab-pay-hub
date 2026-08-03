@@ -1,16 +1,14 @@
 {
   "meta": {
     "count": 772,
-    "active": 392,
-    "new_today": 7,
+    "active": 332,
+    "new_today": 2,
     "links_newly_archived": 0,
-    "updated": "2026-08-02T06:10:39Z",
+    "updated": "2026-08-03T05:53:52Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
-    "region": "AB",
-    "archived": 380,
-    "links_validated": 0
+    "region": "AB"
   },
   "jobs": [
     {
@@ -2921,7 +2919,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "deal-desk-manager-amplitude-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -2934,7 +2932,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Global Agency Lead",
@@ -3376,7 +3376,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "capital-markets-mana-affirm-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -3389,7 +3389,9 @@
       "category_provisional": false,
       "category_title": "Finance",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Compliance Analyst II",
@@ -3481,7 +3483,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "compliance-lead--fai-affirm-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -3494,7 +3496,9 @@
       "category_provisional": false,
       "category_title": "Legal & Compliance",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Legal"
+      "category_legacy": "Legal",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Compliance Lead, Network Growth",
@@ -4251,7 +4255,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "operations-enablemen-affirm-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -4264,7 +4268,9 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Operations"
+      "category_legacy": "Operations",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Operations Enablement Manager (Disputes Management)",
@@ -4286,7 +4292,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "operations-enablemen-affirm-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -4299,7 +4305,9 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Operations"
+      "category_legacy": "Operations",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "People Knowledge Experience Manager",
@@ -4706,7 +4714,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager--soft-affirm-70943140",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -4719,7 +4727,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Manager, Software Engineering (Online Storage)",
@@ -5266,7 +5276,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "software-engineer-i--affirm-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -5279,7 +5289,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer II, Backend (AI Agents)",
@@ -5301,7 +5313,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "software-engineer-ii-affirm-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -5314,7 +5326,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer II, Backend (Consumer Authentication)",
@@ -5336,7 +5350,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "software-engineer-ii-affirm-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -5349,7 +5363,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer II, Backend (Identity Decisioning)",
@@ -5371,7 +5387,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "software-engineer-ii-affirm-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -5384,7 +5400,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer II, Backend (Merchant Advocacy)",
@@ -6876,7 +6894,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "associate-general-co-webflow-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -6889,7 +6907,9 @@
       "category_provisional": false,
       "category_title": "Legal & Compliance",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Product"
+      "category_legacy": "Product",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Engineering Manager, Developer Productivity",
@@ -6946,7 +6966,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "field-marketing-spec-webflow-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-07-19",
@@ -6959,7 +6979,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Marketing"
+      "category_legacy": "Marketing",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Business Systems Analyst, Enterprise AI Operations",
@@ -7121,7 +7143,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-staff-softwar-webflow-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -7134,7 +7156,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Commercial Counsel, Procurement",
@@ -7506,7 +7530,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "principal-i--strateg-braze-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -7519,7 +7543,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director of Internal Audit | United States | Remote",
@@ -8647,7 +8673,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "full-stack-marketer--intercom-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -8660,7 +8686,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Strategic Partnerships Manager, AI and Agentic Commerce",
@@ -9067,7 +9095,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "privacy-program-mana-justworks-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-08-02",
@@ -9080,7 +9108,9 @@
       "category_provisional": false,
       "category_title": "Legal & Compliance",
       "classifier_version": "haiku-4-5|codex-v1.0|adj-clean",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Program Manager, Product",
@@ -11676,7 +11706,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "vice-president--sale-lvs1-57304721",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-29",
       "scraped": "2026-05-29",
       "last_seen": "2026-08-02",
@@ -11689,7 +11719,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Full Stack Software Engineer",
@@ -12366,7 +12398,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "research-associate---sait-82940990",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-03",
       "scraped": "2026-06-03",
       "last_seen": "2026-08-02",
@@ -12378,7 +12410,9 @@
       "category_provisional": false,
       "category_title": "Science & Research",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Branch Manager II",
@@ -13223,7 +13257,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "lead--environment-evr-87049153",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-10",
       "scraped": "2026-06-10",
       "last_seen": "2026-08-02",
@@ -13235,7 +13269,9 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "NOC Analyst",
@@ -14101,7 +14137,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "senior-director--env-sait-46294355",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-13",
       "scraped": "2026-06-13",
       "last_seen": "2026-08-02",
@@ -14113,7 +14149,9 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Mechanical EIT",
@@ -14747,7 +14785,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "intermediate-archite-dialogdesign-05475975",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-16",
       "scraped": "2026-06-16",
       "last_seen": "2026-07-26",
@@ -14758,7 +14796,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": null,
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Architectural Contract Administrator",
@@ -16134,7 +16174,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager--solu-webflow-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16145,7 +16185,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Commercial Account Executive, Acquisition | East | Remote",
@@ -16398,7 +16440,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "corporate-telecom-co-twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16409,7 +16451,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": null,
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Developer Evangelist",
@@ -16695,7 +16739,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "product-management---twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16706,7 +16750,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Product & Project",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Environmental Sustainability & ESG Manager",
@@ -16827,7 +16873,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-product-marke-twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16838,7 +16884,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Sales & Mktg",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Sales System Engineer 3",
@@ -16860,7 +16908,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-sales-system--twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16871,7 +16919,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer (L3) Data Substrate",
@@ -16959,7 +17009,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-analytics-engi-twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -16970,7 +17020,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Data & Analytics",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff, Product Manager",
@@ -16992,7 +17044,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff--product-manag-twilio-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -17003,7 +17055,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Product & Project",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Product Manager - Enterprise AI",
@@ -17421,7 +17475,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "director--office-of--sait-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -17432,7 +17486,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": null,
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "HR Business Analyst, Reporting & Analytics",
@@ -17454,7 +17510,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "hr-business-analyst--sait-86533655",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-07-26",
@@ -17465,7 +17521,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": null,
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "D365 Customer Engagement Solution Architect",
@@ -18734,7 +18792,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "manager--software-en-altaml-62984588",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-21",
       "scraped": "2026-06-21",
       "last_seen": "2026-08-02",
@@ -18745,7 +18803,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Java Programmer- Marketing & Risk Management Systems",
@@ -18963,7 +19023,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "finance-business-par-lvs1-62984588",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-21",
       "scraped": "2026-06-21",
       "last_seen": "2026-08-02",
@@ -18974,7 +19034,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Finance",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Legal Assistant III",
@@ -19529,7 +19591,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "business-support-coo-sait-19010635",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-25",
       "scraped": "2026-06-25",
       "last_seen": "2026-08-02",
@@ -19540,7 +19602,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Operations",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Dynamics 365 Business Central Solution Architect",
@@ -19595,7 +19659,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "global-service-desk--lvs1-19010635",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-25",
       "scraped": "2026-06-25",
       "last_seen": "2026-08-02",
@@ -19606,7 +19670,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "IT & Infra",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sales Coordinator",
@@ -20283,7 +20349,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "finance-business-par-sait-98911382",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-27",
       "scraped": "2026-06-27",
       "last_seen": "2026-08-02",
@@ -20294,7 +20360,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Finance",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Quality Partner",
@@ -20316,7 +20384,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "quality-partner-sait-98911382",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-27",
       "scraped": "2026-06-27",
       "last_seen": "2026-08-02",
@@ -20327,7 +20395,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Product & Project",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Personal Banking Associate Trainee",
@@ -21155,7 +21225,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-product-manag-affirm-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21166,7 +21236,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Product & Project",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Lawyer - In-House Legal Counsel",
@@ -21188,7 +21260,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "lawyer---in-house-le-bis-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21199,7 +21271,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Legal & Compliance",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Learning & Development Program Builder - Contract Position",
@@ -21221,7 +21295,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "learning---developme-bis-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21232,7 +21306,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "People & HR",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Privacy and Compliance Analyst",
@@ -21320,7 +21396,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "risk-and-compliance--bis-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21331,7 +21407,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Legal & Compliance",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Talent Acquisition - Sourcing Specialist",
@@ -21386,7 +21464,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "technical-writer-bis-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21397,7 +21475,9 @@
       "category_confidence": "high",
       "category_provisional": true,
       "category_title": "Sales & Mktg",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "VP of Sales",
@@ -21452,7 +21532,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "digital-project-coor-lawdepot-53751797",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-26",
@@ -21463,7 +21543,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Product & Project",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Development Manager - AI Solutions and Business Intelligence",
@@ -21995,12 +22077,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "supervisor--classroo-sait-52994267",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-07",
       "scraped": "2026-07-07",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Billing Operations Coordinator",
@@ -22022,12 +22106,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "billing-operations-c-lvs1-52994267",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-07",
       "scraped": "2026-07-07",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Financial Analyst",
@@ -22049,12 +22135,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "financial-analyst-sait-03778925",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-08",
       "scraped": "2026-07-08",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Security Operations Center Analyst *Future Opportunity*",
@@ -22076,12 +22164,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "intermediate-securit-lvs1-03778925",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-08",
       "scraped": "2026-07-08",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Administrative Assistant II",
@@ -22103,12 +22193,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "administrative-assis-sait-93255258",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-09",
       "scraped": "2026-07-09",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Customer Experience Team Lead",
@@ -22130,12 +22222,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "customer-experience--bis-93255258",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-09",
       "scraped": "2026-07-09",
       "last_seen": "2026-08-02",
       "location_display": "Province-wide (AB)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Branch Manager- Edmonton East Future Opportunities",
@@ -22323,12 +22417,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "operations-analyst---sait-87455044",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-10",
       "scraped": "2026-07-10",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Operations Analyst, Systems & Reporting",
@@ -22350,12 +22446,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "operations-analyst---sait-87455044",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-10",
       "scraped": "2026-07-10",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Research Grants & Financial Analyst",
@@ -22377,12 +22475,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "research-grants---fi-sait-87455044",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-10",
       "scraped": "2026-07-10",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Supply Chain Management Business Partner, Core Programs",
@@ -22509,12 +22609,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "international-admiss-sait-49572760",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-11",
       "scraped": "2026-07-11",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Talent Acquisition Specialist",
@@ -22667,12 +22769,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-advisor-proje-enbridge-employ-24312792",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-13",
       "scraped": "2026-07-13",
       "last_seen": "2026-07-26",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_reason": "workday_source_gone",
+      "archived_date": "2026-08-02"
     },
     {
       "role": "Regional Supervision Officer",
@@ -23033,12 +23137,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "customer-service-rep-sait-81817816",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-16",
       "scraped": "2026-07-16",
       "last_seen": "2026-07-26",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Customer Service Team Leader, Welcome Centre",
@@ -23060,12 +23166,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "customer-service-tea-sait-81817816",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-16",
       "scraped": "2026-07-16",
       "last_seen": "2026-07-26",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Mechanical Technologist",
@@ -23426,12 +23534,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "cashier-sait-56252378",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-18",
       "scraped": "2026-07-18",
       "last_seen": "2026-07-26",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Network Operations Center Analyst",
@@ -23453,12 +23563,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "network-operations-c-lvs1-56252378",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-18",
       "scraped": "2026-07-18",
       "last_seen": "2026-07-26",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Branch Manager Trainee- Future Opportunities",
@@ -23612,12 +23724,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "indigenous-student-a-sait-13892796",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-21",
       "scraped": "2026-07-21",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior AI Architect",
@@ -23718,12 +23832,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "purchasing-officer-sait-00489396",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-22",
       "scraped": "2026-07-22",
       "last_seen": "2026-08-02",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-08-02",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Electrical Contract Administrator",
@@ -24399,12 +24515,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "regional-vice-presid-the-toronto-dom-14278314",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-28",
       "scraped": "2026-07-28",
       "last_seen": "2026-07-28",
       "location_display": "Edmonton, AB",
-      "location_city": "Edmonton"
+      "location_city": "Edmonton",
+      "archived_reason": "workday_source_gone",
+      "archived_date": "2026-08-02"
     },
     {
       "role": "Manager, Customer Experience",
@@ -25136,33 +25254,6 @@
       "last_seen": "2026-08-01",
       "location_display": "Calgary, AB",
       "location_city": "Calgary"
-    },
-    {
-      "role": "Credit Risk Senior Manager",
-      "company": "Marqeta",
-      "min": 180600,
-      "max": 225800,
-      "location": "Remote (AB)",
-      "source_url": "https://job-boards.greenhouse.io/marqeta/jobs/7978451",
-      "posted": "2026-06-25",
-      "source_platform": "greenhouse",
-      "currency": "CAD",
-      "region": "AB",
-      "_width": 45200,
-      "_compliant": true,
-      "_nonCompliant": false,
-      "_exempt": false,
-      "_federal": false,
-      "category": "Management",
-      "work_mode": "remote",
-      "salary_type": "annual",
-      "id": "credit-risk-senior-m-marqeta-51039696",
-      "status": "active",
-      "date_added": "2026-08-02",
-      "scraped": "2026-08-02",
-      "last_seen": "2026-08-02",
-      "location_display": "Remote (AB)",
-      "location_city": ""
     },
     {
       "role": "Senior SQL Developer",
