@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 1099,
-    "active": 434,
+    "count": 1105,
+    "active": 405,
     "new_today": 5,
-    "links_newly_archived": 0,
-    "updated": "2026-09-10T05:09:29Z",
+    "links_newly_archived": 5,
+    "updated": "2026-09-12T05:11:51Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
@@ -142,7 +142,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "specialist-i-tis-ai--enbridge-inc--01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -155,7 +155,8 @@
       "category_provisional": false,
       "category_title": "Data & Analytics",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Sr Advisor Operational Performance Reporting",
@@ -176,7 +177,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "sr-advisor-operation-enbridge-inc--01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -189,7 +190,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Sr Analyst S&R Operational Performance Reporting",
@@ -210,7 +212,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "sr-analyst-s-r-opera-enbridge-inc--01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -223,7 +225,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj-clean",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Operations Training Specialist",
@@ -279,7 +282,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "pipeline-constructio-enbridge-inc--01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -292,7 +295,8 @@
       "category_provisional": false,
       "category_title": "Skilled Trades & Field",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Senior Advisor Environment",
@@ -313,7 +317,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-advisor-envir-enbridge-inc--01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -326,7 +330,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Senior Engineer Measurement",
@@ -347,7 +352,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-engineer-meas-enbridge-employ-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -360,7 +365,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Developing Investment Advisor - Edmonton & Calgary",
@@ -415,7 +421,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "auto-claims-advisor--s-curit--nation-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -428,7 +434,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Client Service Associate, BMO Nesbitt Burns (Contract)",
@@ -449,7 +456,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "client-service-assoc-bmo-nesbitt-bur-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -462,7 +469,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Senior Tech Project Manager",
@@ -483,7 +491,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-tech-project--bank-of-montrea-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -496,7 +504,8 @@
       "category_provisional": false,
       "category_title": "Product & Project",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Branch Manager - Large",
@@ -517,7 +526,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "branch-manager---lar-bank-of-montrea-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -530,7 +539,8 @@
       "category_provisional": false,
       "category_title": "Leadership",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Business Development Partner - Greater Calgary",
@@ -551,7 +561,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "business-development-sun-life-assura-01808707",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-08-30",
@@ -563,7 +573,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Assistant Branch Manager Trainee",
@@ -688,7 +699,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banking-ass-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -701,7 +712,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Senior Personal Banker - Home Borrowing Future Opportunities",
@@ -722,7 +734,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-personal-bank-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -735,7 +747,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Senior Personal Banker - Investing Future Opportunities",
@@ -756,7 +769,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-personal-bank-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -769,7 +782,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Associate Investment Advisor",
@@ -790,7 +804,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "associate-investment-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -803,7 +817,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "PIA Client Service Associate",
@@ -824,7 +839,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "pia-client-service-a-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -837,7 +852,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Lethbridge",
@@ -893,7 +909,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -906,7 +922,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Personal Banking Associate - (Fixed Term Contract)",
@@ -927,7 +944,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banking-ass-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -940,7 +957,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Edmonton",
@@ -961,7 +979,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -974,7 +992,8 @@
       "category_provisional": false,
       "category_title": "Finance",
       "classifier_version": "opus|codex-v1.0|J-31",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Personal Banker Trainee",
@@ -995,7 +1014,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banker-trai-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1008,7 +1027,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Whyte Ave",
@@ -1029,7 +1049,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1042,7 +1062,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Hollick Kenyon",
@@ -1063,7 +1084,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1076,7 +1097,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Personal Banking Associate Trainee- (Cantonese or Mandarin Language Skill an Asset)",
@@ -1097,7 +1119,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banking-ass-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1110,7 +1132,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - North Hill",
@@ -1131,7 +1154,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1144,7 +1167,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Chinook Centre",
@@ -1165,7 +1189,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "financial-planner----the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1178,7 +1202,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Financial Planner - Aspen Woods",
@@ -1234,7 +1259,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banker-trai-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1247,7 +1272,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Personal Banker",
@@ -1268,7 +1294,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "personal-banker-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1281,7 +1307,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Developing Investment Advisor",
@@ -1302,7 +1329,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "developing-investmen-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1315,7 +1342,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Branch Manager III",
@@ -1336,7 +1364,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "branch-manager-iii-the-toronto-dom-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1349,7 +1377,8 @@
       "category_provisional": false,
       "category_title": "Leadership",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Client Service Advisor II",
@@ -1370,7 +1399,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "client-service-advis-bank-of-montrea-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-08-30",
@@ -1382,7 +1411,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "haiku-4-5|codex-v1.0|adj-clean",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-09-11"
     },
     {
       "role": "Investment Specilaist",
@@ -2309,7 +2339,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "-can--new-store-mana-wal-mart-canada-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-07-19",
@@ -2322,7 +2352,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-12"
     },
     {
       "role": "(CAN) Front End Assistant Manager",
@@ -2343,7 +2374,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "-can--front-end-assi-wal-mart-canada-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-07-19",
@@ -2356,7 +2387,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-12"
     },
     {
       "role": "(CAN) General Merchandise Assistant Manager",
@@ -2377,7 +2409,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "-can--general-mercha-wal-mart-canada-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-07-19",
@@ -2390,7 +2422,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-12"
     },
     {
       "role": "(CAN) Food Assistant Manager",
@@ -2411,7 +2444,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "-can--food-assistant-wal-mart-canada-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-07-19",
@@ -2423,7 +2456,8 @@
       "category_provisional": false,
       "category_title": "Customer Service & Hospitality",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-12"
     },
     {
       "role": "(CAN) Fashion Assistant Manager",
@@ -2444,7 +2478,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "-can--fashion-assist-wal-mart-canada-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-07-19",
@@ -2456,7 +2490,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-12"
     },
     {
       "role": "(CAN) Team Leader, Operations Administration (Mon,Tues,Thurs,Fri - Afternoons)",
@@ -34461,6 +34496,192 @@
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
       "last_seen": "2026-09-10",
+      "location_display": "Calgary, AB",
+      "location_city": "Calgary"
+    },
+    {
+      "role": "Senior Full Stack Engineer",
+      "company": "Altaml",
+      "min": 110000,
+      "max": 140000,
+      "location": "Calgary, AB",
+      "source_url": "https://jobs.lever.co/altaml/13d3af4f-e28e-4c75-aeb9-5b189bb8fcf9",
+      "posted": "2026-09-10",
+      "source_platform": "lever",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 30000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "senior-full-stack-en-altaml-03676463",
+      "status": "active",
+      "date_added": "2026-09-11",
+      "scraped": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "location_display": "Calgary, AB",
+      "location_city": "Calgary"
+    },
+    {
+      "role": "Specialist SCM Vendor Audit & Contract Compliance",
+      "company": "Enbridge Inc.",
+      "min": 95000,
+      "max": 130000,
+      "location": "Calgary, AB",
+      "source_url": "https://enbridge.wd3.myworkdayjobs.com/en-US/Enbridge_Careers/job/Calgary-AB-CAN/Specialist-SCM-Vendor-Audit---Contract-Compliance_72406-2",
+      "posted": "2026-09-11",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 35000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Legal",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "specialist-scm-vendo-enbridge-inc--03676463",
+      "status": "active",
+      "date_added": "2026-09-11",
+      "scraped": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "location_display": "Calgary, AB",
+      "location_city": "Calgary"
+    },
+    {
+      "role": "Software Engineer I, Frontend (Upfunnel)",
+      "company": "Affirm",
+      "min": 101000,
+      "max": 151000,
+      "location": "Remote (AB)",
+      "source_url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+      "posted": "2026-09-11",
+      "source_platform": "greenhouse",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 50000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "software-engineer-i--affirm-89911043",
+      "status": "active",
+      "date_added": "2026-09-12",
+      "scraped": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "location_display": "Remote (AB)",
+      "location_city": ""
+    },
+    {
+      "role": "Assistant Store Manager - West Edmonton Mall",
+      "company": "Knix",
+      "min": 55000,
+      "max": 60000,
+      "location": "Edmonton, AB",
+      "source_url": "https://jobs.lever.co/knix/7601284e-f446-4664-88ad-f69f01d7d3b9",
+      "posted": "2026-09-11",
+      "source_platform": "lever",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 5000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "onsite",
+      "salary_type": "annual",
+      "id": "assistant-store-mana-knix-89911043",
+      "status": "active",
+      "date_added": "2026-09-12",
+      "scraped": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "location_display": "Edmonton, AB",
+      "location_city": "Edmonton"
+    },
+    {
+      "role": "Technical Product Manager",
+      "company": "Altaml",
+      "min": 110000,
+      "max": 130000,
+      "location": "Edmonton, AB",
+      "source_url": "https://jobs.lever.co/altaml/0c9a8c8c-08ed-4ff2-b578-b1ad269c82fb",
+      "posted": "2026-09-10",
+      "source_platform": "lever",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 20000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Product",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "technical-product-ma-altaml-89911043",
+      "status": "active",
+      "date_added": "2026-09-12",
+      "scraped": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "location_display": "Edmonton, AB",
+      "location_city": "Edmonton"
+    },
+    {
+      "role": "Specialist, Integrated Management Systems",
+      "company": "Enbridge Employee Services CAN",
+      "min": 115000,
+      "max": 145000,
+      "location": "Calgary, AB",
+      "source_url": "https://enbridge.wd3.myworkdayjobs.com/en-US/Enbridge_Careers/job/Calgary-AB-CAN/Specialist--Integrated-Management-Systems_72779-2",
+      "posted": "2026-09-12",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 30000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "specialist--integrat-enbridge-employ-89911043",
+      "status": "active",
+      "date_added": "2026-09-12",
+      "scraped": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "location_display": "Calgary, AB",
+      "location_city": "Calgary"
+    },
+    {
+      "role": "Market and Operational Readiness Advisor",
+      "company": "Enbridge Inc.",
+      "min": 81090,
+      "max": 106500,
+      "location": "Calgary, AB",
+      "source_url": "https://enbridge.wd3.myworkdayjobs.com/en-US/Enbridge_Careers/job/Calgary-AB-CAN/Market-and-Operational-Readiness-Advisor_72766-1",
+      "posted": "2026-09-12",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 25410,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "market-and-operation-enbridge-inc--89911043",
+      "status": "active",
+      "date_added": "2026-09-12",
+      "scraped": "2026-09-12",
+      "last_seen": "2026-09-12",
       "location_display": "Calgary, AB",
       "location_city": "Calgary"
     }
