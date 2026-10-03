@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1177,
-    "active": 430,
-    "new_today": 14,
-    "links_newly_archived": 0,
-    "updated": "2026-10-01T06:04:06Z",
+    "active": 429,
+    "new_today": 1,
+    "links_newly_archived": 1,
+    "updated": "2026-10-02T05:42:16Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
@@ -7508,7 +7508,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-application-s-brex-70943141",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-09-27",
@@ -7521,7 +7521,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-10-02"
     },
     {
       "role": "Senior Marketing Operations Manager, B2B Sales",
