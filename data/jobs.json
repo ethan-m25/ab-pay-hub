@@ -1,16 +1,14 @@
 {
   "meta": {
     "count": 1191,
-    "active": 437,
+    "active": 426,
     "new_today": 2,
     "links_newly_archived": 0,
-    "updated": "2026-10-04T08:35:23Z",
+    "updated": "2026-10-05T06:27:06Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
-    "region": "AB",
-    "archived": 754,
-    "links_validated": 0
+    "region": "AB"
   },
   "jobs": [
     {
@@ -12117,7 +12115,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-specification-dialogdesign-57304721",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-29",
       "scraped": "2026-05-29",
       "last_seen": "2026-09-27",
@@ -12130,7 +12128,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Account Manager, Small Business",
@@ -13248,7 +13248,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "sales-director-lvs1-00601314",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-09",
       "scraped": "2026-06-09",
       "last_seen": "2026-09-27",
@@ -13260,7 +13260,9 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Cybersecurity Incident Response (IR) Communications Expert",
@@ -24548,12 +24550,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-developer-zayzoon-55165872",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-25",
       "scraped": "2026-07-25",
       "last_seen": "2026-09-27",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Advisor GIS Lands & ROW",
@@ -33874,12 +33878,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "office-administrator-bis-99539890",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
       "last_seen": "2026-09-27",
       "location_display": "Province-wide (AB)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Risk and Compliance Analyst",
@@ -35368,12 +35374,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "audio-visual-special-sait-11410970",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-27",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Financial Planner- SW, Calgary",
@@ -35683,12 +35691,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "program-development--sait-56500207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
       "last_seen": "2026-10-04",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Intermediate Electrical Engineer",
@@ -35815,12 +35825,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "career-advisor-sait-40948316",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-10-04",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Member Engagement and Projects, Alberta Bureau for International Education",
@@ -35842,12 +35854,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "member-engagement-an-sait-40948316",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-10-04",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Associate, Agricultural Services",
@@ -36026,12 +36040,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "business-analyst--fi-sait-29039927",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
       "last_seen": "2026-10-04",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Financial Planner- Memorial, Southeast Calgary",
@@ -36105,12 +36121,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "construction-purchas-sait-14955844",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
       "last_seen": "2026-10-04",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Facilities Data and Systems Coordinator",
@@ -36317,12 +36335,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "manager--business-op-sait-34646252",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
       "location_display": "Calgary, AB",
-      "location_city": "Calgary"
+      "location_city": "Calgary",
+      "archived_date": "2026-10-04",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "People Services Advisor",
