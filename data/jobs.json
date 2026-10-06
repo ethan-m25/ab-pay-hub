@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 1191,
-    "active": 426,
-    "new_today": 2,
-    "links_newly_archived": 0,
-    "updated": "2026-10-05T06:27:06Z",
+    "count": 1192,
+    "active": 418,
+    "new_today": 3,
+    "links_newly_archived": 9,
+    "updated": "2026-10-06T06:00:06Z",
     "state": "Alberta",
     "law": "⚖️ AB Employment Standards · Voluntary",
     "currency": "CAD",
@@ -1628,7 +1628,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "personal-banker-bank-of-montrea-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -1641,7 +1641,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Administration Assistant, BMO Nesbitt Burns",
@@ -1696,7 +1697,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "--business-banking-r-bank-of-montrea-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -1709,7 +1710,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Senior Application Developer",
@@ -1764,7 +1766,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "software-application-bmo-bank-n-a--49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -1777,7 +1779,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Customer Service Representative",
@@ -1832,7 +1835,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-estate-insura-bmo-nesbitt-bur-49729755",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -1844,7 +1847,8 @@
       "category_provisional": false,
       "category_title": "Finance",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Branch Manager Trainee",
@@ -2004,7 +2008,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "developer-lead--java-bank-of-montrea-49729756",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -2016,7 +2020,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Private Banking Officer, Sales",
@@ -2037,7 +2042,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "private-banking-offi-bank-of-montrea-49729756",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -2050,7 +2055,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Sr. Branch Manager",
@@ -2175,7 +2181,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "senior-personal-bank-the-toronto-dom-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -2188,7 +2194,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Personal Banking Associate- Fixed Term Contract",
@@ -2209,7 +2216,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "personal-banking-ass-the-toronto-dom-49729757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-22",
       "scraped": "2026-05-22",
       "last_seen": "2026-09-27",
@@ -2222,7 +2229,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "haiku-4-5|codex-v1.0|adj-clean",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Crime Prevention Specialist",
@@ -2828,7 +2836,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "personal-banking-ass-bank-of-montrea-81659665",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-27",
       "scraped": "2026-05-27",
       "last_seen": "2026-09-27",
@@ -2841,7 +2849,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-06"
     },
     {
       "role": "Branch Operations Manager",
@@ -36998,6 +37007,33 @@
       "last_seen": "2026-10-03",
       "location_display": "Edmonton, AB",
       "location_city": "Edmonton"
+    },
+    {
+      "role": "International Student Engagement Coordinator",
+      "company": "Sait",
+      "min": 78166,
+      "max": 85425,
+      "location": "Calgary, AB",
+      "source_url": "https://jobs.lever.co/sait/b56fd206-8d88-4e8b-ad54-d89e885d5809",
+      "posted": "2026-09-23",
+      "source_platform": "lever",
+      "currency": "CAD",
+      "region": "AB",
+      "_width": 7259,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "onsite",
+      "salary_type": "annual",
+      "id": "international-studen-sait-66406870",
+      "status": "active",
+      "date_added": "2026-10-06",
+      "scraped": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "location_display": "Calgary, AB",
+      "location_city": "Calgary"
     }
   ]
 }
